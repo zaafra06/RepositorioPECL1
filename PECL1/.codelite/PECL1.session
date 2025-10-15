@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="C:\RepositorioPECL1\PECL1\PECL1.workspace">
+<Session Name="C:\UAH\2ºCURSO\Estructura de datos\RepositorioPECL1\PECL1\PECL1.workspace">
   <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="C:\RepositorioPECL1\PECL1\PECL1.workspace" Name="m_workspaceName"/>
+  <wxString Value="C:\UAH\2ºCURSO\Estructura de datos\RepositorioPECL1\PECL1\PECL1.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray"/>
   <SerializedObject Name="m_breakpoints">
     <long Value="0" Name="Count"/>
